@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AngularTwo",
+    "\\AngularTwo\\src",
+    "\\AngularTwo\\src\\app",
+    "\\AngularTwo\\src\\app\\modules",
+    "\\AngularTwo\\src\\app\\modules\\first",
+    "\\AngularTwo\\src\\app\\modules\\first\\child"
+  ],
+  "SelectedNode": "\\AngularTwo\\src\\app\\modules\\first\\child\\child.component.ts",
+  "PreviewInSolutionExplorer": false
+}
